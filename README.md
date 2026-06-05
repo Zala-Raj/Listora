@@ -54,7 +54,9 @@ This project started as a practice project, but it helped me learn about UI desi
 
 I know there is still a lot to improve, and I plan to build more meaningful and useful projects in the future.
 
-Thank you for checking out Listora and supporting my learning journey ❤️## 🛠 Built For
+Thank you for checking out Listora and supporting my learning journey ❤️
+
+## 🛠 Built For
 
 Anime fans who prefer complete control over their watchlists while keeping everything stored locally.
 
