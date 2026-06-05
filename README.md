@@ -57,3 +57,20 @@ I know there is still a lot to improve, and I plan to build more meaningful and 
 Thank you for checking out Listora and supporting my learning journey ❤️## 🛠 Built For
 
 Anime fans who prefer complete control over their watchlists while keeping everything stored locally.
+
+📥 How to Install Listora
+
+1. Open this repository and go to the Releases section.
+2. Download the latest Listora APK file from the newest release.
+3. Open the downloaded APK file on your Android device.
+4. If prompted, enable Install from Unknown Sources or allow installation from your browser/file manager.
+5. Tap Install and wait for installation to complete.
+6. Open Listora and start organizing your anime watchlist.
+
+Important Notes:
+
+- Currently supported only on Android devices
+- Make sure you download APK files only from official releases
+- If updating from an older version, exporting your data before updating is recommended
+
+If you face installation issues, bugs, or have suggestions, feel free to contact me.
