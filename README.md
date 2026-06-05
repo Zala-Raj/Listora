@@ -58,7 +58,7 @@ Thank you for checking out Listora and supporting my learning journey ❤️## �
 
 Anime fans who prefer complete control over their watchlists while keeping everything stored locally.
 
-📥 How to Install Listora
+## 📥 How to Install Listora
 
 1. Open this repository and go to the Releases section.
 2. Download the latest Listora APK file from the newest release.
