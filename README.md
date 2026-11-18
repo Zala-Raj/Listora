@@ -1,10 +1,10 @@
-# Listora 🎌
+# Listora 
 
 Listora is a modern offline-first anime tracking application designed for anime fans who want a simple and organized way to manage their watchlists without accounts, cloud sync, or unnecessary complexity.
 
 Track anime progress, ratings, favorites, and viewing statistics in a clean and responsive interface built for both dark and light themes.
 
-## ✨ Features
+## Features
 
 - Offline-first architecture
 - No login or signup required
@@ -14,29 +14,28 @@ Track anime progress, ratings, favorites, and viewing statistics in a clean and 
 - Favorites system
 - Rating support (1–10)
 - Anime statistics dashboard
-- Genre categorization
 - JSON Import / Export backups
 - Dark & Light theme support
 - Smooth and modern UI
 
-## 📱 Screens
+## Screens
 
 - Home Dashboard
 - Anime Library
 - Statistics & Analytics
 - Settings
 
-## 📦 Storage
+## Storage
 
 - Local database storage
 - JSON backup system
 - Import / Export support for easy migration
 
-## 🎯 Purpose
+## Purpose
 
 Listora was created to make anime tracking simple, private, fast, and fully offline while keeping the experience clean and distraction-free.
 
-## 🚫 Not Included
+## Not Included
 
 - No accounts
 - No cloud sync
@@ -44,7 +43,7 @@ Listora was created to make anime tracking simple, private, fast, and fully offl
 - No external APIs
 - No ads
 
-## 👨‍💻 About This Project
+## About This Project
 
 Listora is my first app and also my first project developed almost entirely using Google AI Studio.
 
@@ -56,11 +55,11 @@ I know there is still a lot to improve, and I plan to build more meaningful and 
 
 Thank you for checking out Listora and supporting my learning journey ❤️
 
-## 🛠 Built For
+## Built For
 
 Anime fans who prefer complete control over their watchlists while keeping everything stored locally.
 
-## 📥 How to Install Listora
+## How to Install Listora
 
 1. Open this repository and go to the Releases section.
 2. Download the latest Listora APK file from the newest release.
